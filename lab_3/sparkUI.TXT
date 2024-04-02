@@ -1,0 +1,9 @@
+Spark UI:
+
+    Jobs: W tym panelu prezentowane są zdarzenia w aplikacji Spark na osi czasu oraz szczegółowe informacje dotyczące poszczególnych zadań.
+    Stages: Przedstawia pojedyncze etapy dla każdego z zadań wraz z ich opisem. Dodatkowo, widoczne są nieudane etapy.
+    Storage: W tej sekcji znajdują się informacje dotyczące danych przechowywanych na danym klastrze.
+    Environment: Udostępnia informacje o wersjach Javy, Sparka oraz szczegóły dotyczące konfiguracji środowiska Sparka.
+    Executors: Przedstawia podsumowanie informacji o węzłach wykonawczych, obejmujące między innymi zużycie pamięci i dysku.
+    SQL/DataFrame: W przypadku wykonania zapytań SQL, w tym panelu można zobaczyć informacje dotyczące tych zadań, ich czas trwania oraz wykonania.
+    JDBC/ODBC Server: Udostępnia informacje na temat połączeń JDBC, w tym szczegóły dotyczące sesji i operacji SQL.
