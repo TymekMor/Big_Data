@@ -1,0 +1,5 @@
+1.  Walidacja danych wejściowych: Przed przetwarzaniem danych zawsze sprawdzaj poprawność i istnienie plików wejściowych.
+2.  Integralność schematu: Upewnij się, że dane zawierają wymagane kolumny, aby zapobiec błędom przetwarzania.
+3.  Obsługa brakujących danych: Zastosuj odpowiednie strategie radzenia sobie z brakami danych, aby utrzymać jakość danych.
+4.  Walidacja zakresów wartości: Sprawdzaj, czy wartości danych mieszczą się w oczekiwanych zakresach, aby uniknąć błędów logicznych.
+5.  Logowanie i monitorowanie: Implementacja logowania na poziomie kroków ETL pozwala na lepsze monitorowanie i diagnozowanie problemów.
